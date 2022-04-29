@@ -6,14 +6,14 @@
 body{
     display: flex;
     align-items: center;
-    height: 100vh;
-    width:200vh;
+    height: 40%;
+    width:40%;
     justify-content: center;
     background-color: rgb(109,167,238);
 }
 .continer{
-    width: 450px;
-    height: 450px;
+    width: 45%;
+    height: 45%;
     background-color:white;
     padding: 40px 50px;
     border-radius:8px;
