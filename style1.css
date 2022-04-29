@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(164, 220, 247);
+    margin-top: 100px;
+
+}
+.text{
+    width: 450px;
+    height: 350px;
+    background-color:white;
+    padding: 40px 50px;
+    border-radius:8px;
+}
+#voice{
+    resize: none;
+    margin:10px;
+    height: 150px;
+    width: 100%;
+    border-radius:5px;
+    padding: 5px;
+}
+#button{
+    display: flex;
+    flex-direction:row;
+    margin-top: 30px;
+    margin-left: 10px ;
+    height:40px;
+    width: 200px;
+    padding-left:40px;
+    padding-top:5px;
+    border-radius:5px;
+    background-color: rgb(238, 10, 116);
+
+
+}
